@@ -14,7 +14,7 @@ A **Programmer Analyst** 🚀.
 - 🌱 I am training in Java Spring Boot. 
 - 🤔 I am currently focused on software development, mainly backend.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [nicolasmunoz@gmail.com](mailto:nicolasmunoz@gmail.com).
+- 📫 Email me at [nicolasmunoz2404@gmail.com](mailto:nicolasmunoz2404@gmail.com).
 
 
 
